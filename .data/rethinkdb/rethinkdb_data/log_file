@@ -39,3 +39,62 @@
 2016-10-16T16:39:53.676426594 0.038781s notice: Listening on driver addresses: 127.0.0.1, 172.20.0.2, ::1, fe80::42:acff:fe14:2%133
 2016-10-16T16:39:53.676835826 0.039191s notice: Listening on http addresses: 127.0.0.1, 172.20.0.2, ::1, fe80::42:acff:fe14:2%133
 2016-10-16T16:39:53.676840350 0.039195s notice: Server ready, "8a36257bb375_ipc" 65e8b351-91f8-406d-9884-674fe031d492
+2016-10-29T15:30:04.391394471 0.023710s notice: Running rethinkdb 2.3.5~0jessie (GCC 4.9.2)...
+2016-10-29T15:30:04.395795258 0.028110s notice: Running on Linux 3.19.0-73-generic x86_64
+2016-10-29T15:30:04.395844525 0.028157s notice: Loading data from directory /data/rethinkdb_data
+2016-10-29T15:30:04.416037991 0.048352s info: Automatically using cache size of 2549 MB
+2016-10-29T15:30:04.417555708 0.049868s notice: Listening for intracluster connections on port 29015
+2016-10-29T15:30:04.420956119 0.053268s notice: Listening for client driver connections on port 28015
+2016-10-29T15:30:04.421361694 0.053674s notice: Listening for administrative HTTP connections on port 8080
+2016-10-29T15:30:04.421863430 0.054176s notice: Listening on cluster addresses: 127.0.0.1, 172.20.0.3, ::1, fe80::42:acff:fe14:3%9
+2016-10-29T15:30:04.422245612 0.054558s notice: Listening on driver addresses: 127.0.0.1, 172.20.0.3, ::1, fe80::42:acff:fe14:3%9
+2016-10-29T15:30:04.422570148 0.054882s notice: Listening on http addresses: 127.0.0.1, 172.20.0.3, ::1, fe80::42:acff:fe14:3%9
+2016-10-29T15:30:04.422576634 0.054889s notice: Server ready, "8a36257bb375_ipc" 65e8b351-91f8-406d-9884-674fe031d492
+2016-10-29T15:32:32.487245351 148.119558s notice: Server got SIGTERM from pid 0, uid 0; shutting down...
+2016-10-29T15:32:32.487329579 148.119642s notice: Shutting down client connections...
+2016-10-29T15:32:32.487358942 148.119671s notice: All client connections closed.
+2016-10-29T15:32:32.487360899 148.119673s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2016-10-29T15:32:32.488908069 148.121220s notice: Storage engine shut down.
+2016-10-29T15:32:37.816982694 0.009604s notice: Running rethinkdb 2.3.5~0jessie (GCC 4.9.2)...
+2016-10-29T15:32:37.819293814 0.011915s notice: Running on Linux 3.19.0-73-generic x86_64
+2016-10-29T15:32:37.819343019 0.011962s notice: Loading data from directory /data/rethinkdb_data
+2016-10-29T15:32:37.831127164 0.023748s info: Automatically using cache size of 2508 MB
+2016-10-29T15:32:37.832159228 0.024778s notice: Listening for intracluster connections on port 29015
+2016-10-29T15:32:37.832963931 0.025583s notice: Listening for client driver connections on port 28015
+2016-10-29T15:32:37.833458748 0.026078s notice: Listening for administrative HTTP connections on port 8080
+2016-10-29T15:32:37.833999385 0.026618s notice: Listening on cluster addresses: 127.0.0.1, 172.20.0.3, ::1, fe80::42:acff:fe14:3%17
+2016-10-29T15:32:37.834421746 0.027041s notice: Listening on driver addresses: 127.0.0.1, 172.20.0.3, ::1, fe80::42:acff:fe14:3%17
+2016-10-29T15:32:37.838703127 0.031322s notice: Listening on http addresses: 127.0.0.1, 172.20.0.3, ::1, fe80::42:acff:fe14:3%17
+2016-10-29T15:32:37.838712572 0.031331s notice: Server ready, "8a36257bb375_ipc" 65e8b351-91f8-406d-9884-674fe031d492
+2016-10-29T15:38:51.098964144 373.291586s notice: Server got SIGTERM from pid 0, uid 0; shutting down...
+2016-10-29T15:38:51.099111213 373.291730s notice: Shutting down client connections...
+2016-10-29T15:38:51.099137492 373.291756s notice: All client connections closed.
+2016-10-29T15:38:51.099139496 373.291758s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2016-10-29T15:38:51.099308685 373.291928s notice: Storage engine shut down.
+2016-10-29T15:38:55.839743319 0.013268s notice: Running rethinkdb 2.3.5~0jessie (GCC 4.9.2)...
+2016-10-29T15:38:55.844180416 0.017706s notice: Running on Linux 3.19.0-73-generic x86_64
+2016-10-29T15:38:55.844340260 0.017863s notice: Loading data from directory /data/rethinkdb_data
+2016-10-29T15:38:55.876088429 0.049612s info: Automatically using cache size of 2445 MB
+2016-10-29T15:38:55.877085661 0.050608s notice: Listening for intracluster connections on port 29015
+2016-10-29T15:38:55.877643920 0.051166s notice: Listening for client driver connections on port 28015
+2016-10-29T15:38:55.878042026 0.051564s notice: Listening for administrative HTTP connections on port 8080
+2016-10-29T15:38:55.878554925 0.052077s notice: Listening on cluster addresses: 127.0.0.1, 172.20.0.3, ::1, fe80::42:acff:fe14:3%23
+2016-10-29T15:38:55.878989450 0.052512s notice: Listening on driver addresses: 127.0.0.1, 172.20.0.3, ::1, fe80::42:acff:fe14:3%23
+2016-10-29T15:38:55.879849568 0.053372s notice: Listening on http addresses: 127.0.0.1, 172.20.0.3, ::1, fe80::42:acff:fe14:3%23
+2016-10-29T15:38:55.879858319 0.053380s notice: Server ready, "8a36257bb375_ipc" 65e8b351-91f8-406d-9884-674fe031d492
+2016-10-29T17:16:45.993512538 5870.167035s notice: Server got SIGTERM from pid 0, uid 0; shutting down...
+2016-10-29T17:16:45.993660159 5870.167183s notice: Shutting down client connections...
+2016-10-29T17:16:45.993680301 5870.167202s notice: All client connections closed.
+2016-10-29T17:16:45.993681536 5870.167204s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2016-10-29T17:16:45.993867465 5870.167390s notice: Storage engine shut down.
+2016-10-29T19:30:58.743574028 0.012035s notice: Running rethinkdb 2.3.5~0jessie (GCC 4.9.2)...
+2016-10-29T19:30:58.745969423 0.014430s notice: Running on Linux 3.19.0-73-generic x86_64
+2016-10-29T19:30:58.746018405 0.014477s notice: Loading data from directory /data/rethinkdb_data
+2016-10-29T19:30:58.783649497 0.052111s info: Automatically using cache size of 2207 MB
+2016-10-29T19:30:58.786754033 0.055213s notice: Listening for intracluster connections on port 29015
+2016-10-29T19:30:58.787340162 0.055799s notice: Listening for client driver connections on port 28015
+2016-10-29T19:30:58.787745937 0.056205s notice: Listening for administrative HTTP connections on port 8080
+2016-10-29T19:30:58.788561962 0.057021s notice: Listening on cluster addresses: 127.0.0.1, 172.20.0.3, ::1, fe80::42:acff:fe14:3%29
+2016-10-29T19:30:58.789000019 0.057459s notice: Listening on driver addresses: 127.0.0.1, 172.20.0.3, ::1, fe80::42:acff:fe14:3%29
+2016-10-29T19:30:58.789381981 0.057841s notice: Listening on http addresses: 127.0.0.1, 172.20.0.3, ::1, fe80::42:acff:fe14:3%29
+2016-10-29T19:30:58.789386552 0.057845s notice: Server ready, "8a36257bb375_ipc" 65e8b351-91f8-406d-9884-674fe031d492
