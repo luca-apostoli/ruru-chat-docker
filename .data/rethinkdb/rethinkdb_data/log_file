@@ -98,3 +98,38 @@
 2016-10-29T19:30:58.789000019 0.057459s notice: Listening on driver addresses: 127.0.0.1, 172.20.0.3, ::1, fe80::42:acff:fe14:3%29
 2016-10-29T19:30:58.789381981 0.057841s notice: Listening on http addresses: 127.0.0.1, 172.20.0.3, ::1, fe80::42:acff:fe14:3%29
 2016-10-29T19:30:58.789386552 0.057845s notice: Server ready, "8a36257bb375_ipc" 65e8b351-91f8-406d-9884-674fe031d492
+2016-10-29T20:44:13.367884410 3214.458264s notice: Server got SIGTERM from pid 0, uid 0; shutting down...
+2016-10-29T20:44:13.368023566 3214.458403s notice: Shutting down client connections...
+2016-10-29T20:44:13.368083008 3214.458462s notice: All client connections closed.
+2016-10-29T20:44:13.368088634 3214.458468s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2016-10-29T20:44:13.368282554 3214.458662s notice: Storage engine shut down.
+2016-10-30T13:12:18.004522119 0.031745s notice: Running rethinkdb 2.3.5~0jessie (GCC 4.9.2)...
+2016-10-30T13:12:18.014044422 0.041267s notice: Running on Linux 3.19.0-73-generic x86_64
+2016-10-30T13:12:18.014103134 0.041324s notice: Loading data from directory /data/rethinkdb_data
+2016-10-30T13:12:18.050934116 0.078158s info: Automatically using cache size of 1304 MB
+2016-10-30T13:12:18.052539510 0.079760s notice: Listening for intracluster connections on port 29015
+2016-10-30T13:12:18.057186005 0.084407s notice: Listening for client driver connections on port 28015
+2016-10-30T13:12:18.058042406 0.085263s notice: Listening for administrative HTTP connections on port 8080
+2016-10-30T13:12:18.059027540 0.086248s notice: Listening on cluster addresses: 127.0.0.1, 172.20.0.3, ::1, fe80::42:acff:fe14:3%9
+2016-10-30T13:12:18.059607609 0.086828s notice: Listening on driver addresses: 127.0.0.1, 172.20.0.3, ::1, fe80::42:acff:fe14:3%9
+2016-10-30T13:12:18.060087695 0.087308s notice: Listening on http addresses: 127.0.0.1, 172.20.0.3, ::1, fe80::42:acff:fe14:3%9
+2016-10-30T13:12:18.060093450 0.087314s notice: Server ready, "8a36257bb375_ipc" 65e8b351-91f8-406d-9884-674fe031d492
+2016-10-30T13:43:27.487663690 1869.514885s notice: Server got SIGTERM from pid 0, uid 0; shutting down...
+2016-10-30T13:43:27.487748994 1869.514970s notice: Shutting down client connections...
+2016-10-30T13:43:27.487823818 1869.515044s notice: All client connections closed.
+2016-10-30T13:43:27.487855536 1869.515076s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2016-10-30T13:43:27.489482252 1869.516703s notice: Storage engine shut down.
+2016-11-13T10:29:59.969311314 0.027776s notice: Running rethinkdb 2.3.5~0jessie (GCC 4.9.2)...
+2016-11-13T10:29:59.974141080 0.032607s notice: Running on Linux 3.19.0-74-generic x86_64
+2016-11-13T10:29:59.974201509 0.032665s notice: Loading data from directory /data/rethinkdb_data
+2016-11-13T10:30:00.004210793 0.062676s info: Automatically using cache size of 2688 MB
+2016-11-13T10:30:00.005733185 0.064196s notice: Listening for intracluster connections on port 29015
+2016-11-13T10:30:00.009143338 0.067607s notice: Listening for client driver connections on port 28015
+2016-11-13T10:30:00.009532695 0.067996s notice: Listening for administrative HTTP connections on port 8080
+2016-11-13T10:30:00.010105106 0.068568s notice: Listening on cluster addresses: 127.0.0.1, 172.20.0.3, ::1, fe80::42:acff:fe14:3%10
+2016-11-13T10:30:00.010517533 0.068981s notice: Listening on driver addresses: 127.0.0.1, 172.20.0.3, ::1, fe80::42:acff:fe14:3%10
+2016-11-13T10:30:00.010834051 0.069297s notice: Listening on http addresses: 127.0.0.1, 172.20.0.3, ::1, fe80::42:acff:fe14:3%10
+2016-11-13T10:30:00.010838344 0.069301s notice: Server ready, "8a36257bb375_ipc" 65e8b351-91f8-406d-9884-674fe031d492
+2016-11-13T10:32:50.554460653 170.612924s info: Table 132e8825-614b-429c-8751-ebcd580c01db: Starting a new Raft election for term 1.
+2016-11-13T10:32:50.555087551 170.613551s info: Table 132e8825-614b-429c-8751-ebcd580c01db: Added replica on this server.
+2016-11-13T10:32:50.564706408 170.623170s info: Table 132e8825-614b-429c-8751-ebcd580c01db: This server is Raft leader for term 1. Latest log index is 0.
